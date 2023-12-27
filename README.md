@@ -1,13 +1,14 @@
 # 【Side Project】Visual Analytics - Die or Not
 
 Our group wanted to analyze if the temperature can affect the rate of suicide. Hence, we used data on Kaggle, and analyzed these data with R language.
+ 
+#### [Die or Not Website](https://wuihsuan.wixsite.com/dieornot)
+➢ We published our result on the website.
 
-Moreover, we published our result on the website. 
-#### Die or Not Website 
-➢ [Website Link](https://wuihsuan.wixsite.com/dieornot)
-
-#### [Global Average Temperature](https://rpubs.com/blog880203/globalavgtemp)
+#### [1985-2013 Global Average Temperature](https://rpubs.com/blog880203/globalavgtemp)
 ➢ Using leaflet to locate every country on the world map.
+
+#### [main.R](https://github.com/uranus-wyx/SideProject-DieorNot/blob/main/main.R)
 
 ## Analysis Result
 
