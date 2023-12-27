@@ -13,12 +13,13 @@ Moreover, we published our result on the website.
 
 - Trends in the relationship between global average temperature and suicide
 
-[全球溫度和自殺率](https://hackmd.io/_uploads/BJjQvstD6.png)
+![全球溫度和自殺率](https://github.com/uranus-wyx/VisualAnalytics-learning/assets/55570963/3da02f96-eff5-4bc3-8134-60e851f9bbad)
 
 
 - The boxplot of Male & Female Suicide Rate
 
-[male&female](https://hackmd.io/_uploads/B1f4PsFwT.png)
+
+![male female](https://github.com/uranus-wyx/VisualAnalytics-learning/assets/55570963/09d191f6-682b-4cea-bc67-b5963cd9fe74)
 
 
 - The relationship between Male & Female and suicide rate
