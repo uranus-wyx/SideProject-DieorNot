@@ -1,6 +1,6 @@
 # 【Side Project】Visual Analytics - Die or Not
 
-Our group wanted to analyze if the temperature can affect the rate of suicide. Hence, we used data on Kaggle, and analyzed these data with R language.
+Our group wanted to analyze if the temperature can affect the rate of suicide. Hence, we used data from Kaggle, and analyzed these data with R language.
  
 #### [Die or Not Website](https://wuihsuan.wixsite.com/dieornot)
 ➢ We published our result on the website.
