@@ -23,7 +23,5 @@ Our group wanted to analyze if the temperature can affect the rate of suicide. H
 ![male female](https://github.com/uranus-wyx/VisualAnalytics-learning/assets/55570963/09d191f6-682b-4cea-bc67-b5963cd9fe74)
 
 
-- The relationship between Male & Female and suicide rate
-
 
 
